@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "minecraft-server-util": "^3.4.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.19",
+    "slappey": "^4.0.0",
+    "ws": "^8.8.1"
+  },
+  "name": "bot-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
